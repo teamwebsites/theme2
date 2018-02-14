@@ -9,7 +9,7 @@
 **License URI:** http://www.gnu.org/licenses/gpl-2.0.html  
 **Tags:** football, club, club website, website, sports club, bespoke, exclusive
 
-Featuring three news blocks on the homepage, beneath the usual 'postponed' message banner, this is quite news centred, so it gives your club the chance to highlight some good stories to put your club in a positive light. Your club will now adopt a professional and elegant image and users can forget navigating a news slider, with static image and text news blocks.
+FAbceaturing three news blocks on the homepage, beneath the usual 'postponed' message banner, this is quite news centred, so it gives your club the chance to highlight some good stories to put your club in a positive light. Your club will now adopt a professional and elegant image and users can forget navigating a news slider, with static image and text news blocks.
 
 ## Description
 
