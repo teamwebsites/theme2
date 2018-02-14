@@ -1,12 +1,17 @@
 /*
- Theme Name:   Elegance
- Description:  Featuring three news blocks on the homepage, beneath the usual 'postponed' message banner, this is quite news centred, so it gives your club the chance to highlight some good stories to put your club in a positive light. Your club will now adopt a professional and elegant image and users can forget navigating a news slider, with static image and text news blocks.
- Author:       Morgan McLellan / Team Websites
- Template:     theme1
+ * Theme Name:   Elegance
+ * Theme URI:          https://roots.io/sage/
+ * Description:  Featuring three news blocks on the homepage, beneath the usual 'postponed' message banner, this is quite news centred, so it gives your club the chance to highlight some good stories to put your club in a positive light. Your club will now adopt a professional and elegant image and users can forget navigating a news slider, with static image and text news blocks.
+ * Template:     theme1
  Text Domain: Elite-slim
- GitHub Theme URI: https://github.com/teamwebsites/theme2
- Template Version: 1.0.3
- Version:          1.0.3
+ * Author:             Team Websites
+ * Author URI:         https://teamwebsites.co.uk/
+ * Template Version: 1.0.1
+ * Version:          1.0.1
+ * Text Domain:        elite
+ * GitHub Theme URI: https://github.com/teamwebsites/theme2
+ * License:            MIT License
+ * License URI:        http://opensource.org/licenses/MIT
 */
 
 #featurednewsslider {width: 100%; height: 285px; position: relative; padding-bottom: 20px; color: #fff !important; padding-top: 31.5px; background-size: cover; width: calc(100% - 40px) !important; padding-right: 20px; padding-left: 20px;}
