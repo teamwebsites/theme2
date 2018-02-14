@@ -1,0 +1,87 @@
+/*
+ Theme Name:   Elegance
+ Description:  Featuring three news blocks on the homepage, beneath the usual 'postponed' message banner, this is quite news centred, so it gives your club the chance to highlight some good stories to put your club in a positive light. Your club will now adopt a professional and elegant image and users can forget navigating a news slider, with static image and text news blocks.
+ Author:       Morgan McLellan / Team Websites
+ Template:     theme1
+ Text Domain: Elite-slim
+ Version:      1.0.0
+*/
+
+#featurednewsslider {width: 100%; height: 285px; position: relative; padding-bottom: 20px; color: #fff !important; padding-top: 31.5px; background-size: cover; width: calc(100% - 40px) !important; padding-right: 20px; padding-left: 20px;}
+
+#homepage-article-row .homepage-article {width: 33.3%; float: left; display: block;}
+
+.homepage-article .readmore-sec a {color: #000 !important; font-weight: 400 !important; margin-bottom: 6px;}
+
+.hp-article-container {display: block;}
+
+body {-webkit-transition: height 0.5s ease-in-out;
+            -moz-transition: height 0.5s ease-in-out;
+            -o-transition: height 0.5s ease-in-out;
+            transition: height 222220.5s ease-in-out;}
+
+@media screen and (min-width: 951px) { .hp-article-container {padding-right: 11px; } .homepage-article:last-child .hp-article-container {padding-right: 11px !important;} }
+
+@media screen and (max-width: 950px) { .homepage-article {margin-bottom: 17px; display: block; clear: both; width: 100% !important;} }
+
+.homepage-article a {text-decoration: none !important;} .homepage-article .text-ex p, .homepage-article .first-news-article-title span {color: #000 !important;}
+
+.article-image-container {position: relative;} .article-image-container img:hover {-webkit-transform : rotate(-20deg) scale(1.2); /* Chrome, Opera 15+, Safari 3.1+ */
+    -ms-transform     : rotate(-20deg) scale(1.2); /* IE 9 */
+    transform         : rotate(-20deg) scale(1.2); /* Firefox 16+, IE 10+, Opera */} .article-image-container img {transition: all 3s; transition-timing: ease-in-out; bottom: -100%;
+    left: -100%;
+    margin: auto;
+    min-width: 100%;
+    position: absolute;
+    right: -100%;
+    top: -100%;} .article-image-container {height: 200px; width: 100%; overflow: hidden;} .article-image-container img {min-width: 100%; min-height: 100%;}
+
+header .col-lg-8 {margin-bottom: 7px !important;}
+
+header .col-lg-8 {width: 100% !important;}
+
+.top-header .container .content {width: auto; clear: both;}
+
+nav a {color: #fff !important;}
+
+header .container {margin-top: 0px !important;}
+
+header.sticky .col-lg-8 h1 {display: none !important;} header.sticky .header-social-right {display: none !important;}
+
+header.sticky nav {padding-top: 1px !important; margin-top: 0px !important; clear: none !important;
+    display: inline-block !important;}
+    
+header.sticky #desktop-menu {margin-top: -37px !important;}
+
+header.sticky .col-lg-8 #logo {height: 35px !important;}
+
+header .content.row:after {content: ""; clear: both; display: block;}
+
+header a {color: #fff !important;}
+
+.header-social-right button {border: none !important;}
+
+.header-social-right a {text-decoration: none !important;}
+
+#Demo1 {margin-top: 34px;}
+
+.dropdown3 button {width: auto !important; float: right; padding-left: 19px !important; padding-right: 19px !important; border-top-left-radius: 17px !important; border-top-right-radius: 17px !important; border-bottom-left-radius: 17px !important; border-bottom-right-radius: 17px !important; clear: both;}
+
+header.sticky nav {background-color: transparent !important;}
+
+.top-header .container .content {padding-top: 2px !important;}
+
+
+#desktop-menu {margin-top: -7px !important; padding-left: 7px;}
+
+nav {background: transparent !important;}
+
+#featurednewsslider a{text-decoration: none;}
+
+.news-slider #featured a {color: #fff;}
+
+.text-ex {color: lightgrey !important;} .readmore-sec i {font-size: 13.5px !important; margin-left: 3.9px;} .readmore-sec {line-height: 0px !important; font-size: 12.5px !important; font-weight: bold;} .readmore-sec a {color: #fff !important; margin: 0px !important;}
+
+.text-ex p {margin-left: 6px !important;}
+
+.primary-color-banner {left: 0px; right: 0px; bottom: 0px; top: 0px; position: absolute; z-index: 0; background: rgba(12, 10, 10, 0.76);} .first-news-article-content {color: lightgrey !important; font-size: 12.5px !important;} .first-news-article-title span {margin-top: 7px; margin-left: 7px; display: block; width: 100% !important; clear: both; font-size: 23px;} .first-news-article-date {color: lightgrey !important; font-size: 13px !important;} .first-news-article-title {z-index: 1111; position: relative;} #featured {width:65%;overflow:hidden;} .first-news-article-date {margin-top: 8.5px;} .first-news-article-date i {font-size: 13.5px !important; margin-right: 3.9px;}
